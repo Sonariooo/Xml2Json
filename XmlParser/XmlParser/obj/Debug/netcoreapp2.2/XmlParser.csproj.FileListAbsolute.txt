@@ -1,0 +1,11 @@
+C:\Users\Daniil\source\repos\XmlParser\XmlParser\bin\Debug\netcoreapp2.2\XmlParser.deps.json
+C:\Users\Daniil\source\repos\XmlParser\XmlParser\bin\Debug\netcoreapp2.2\XmlParser.runtimeconfig.json
+C:\Users\Daniil\source\repos\XmlParser\XmlParser\bin\Debug\netcoreapp2.2\XmlParser.runtimeconfig.dev.json
+C:\Users\Daniil\source\repos\XmlParser\XmlParser\bin\Debug\netcoreapp2.2\XmlParser.dll
+C:\Users\Daniil\source\repos\XmlParser\XmlParser\bin\Debug\netcoreapp2.2\XmlParser.pdb
+C:\Users\Daniil\source\repos\XmlParser\XmlParser\obj\Debug\netcoreapp2.2\XmlParser.csproj.CoreCompileInputs.cache
+C:\Users\Daniil\source\repos\XmlParser\XmlParser\obj\Debug\netcoreapp2.2\XmlParser.AssemblyInfoInputs.cache
+C:\Users\Daniil\source\repos\XmlParser\XmlParser\obj\Debug\netcoreapp2.2\XmlParser.AssemblyInfo.cs
+C:\Users\Daniil\source\repos\XmlParser\XmlParser\obj\Debug\netcoreapp2.2\XmlParser.dll
+C:\Users\Daniil\source\repos\XmlParser\XmlParser\obj\Debug\netcoreapp2.2\XmlParser.pdb
+C:\Users\Daniil\source\repos\XmlParser\XmlParser\obj\Debug\netcoreapp2.2\XmlParser.csprojAssemblyReference.cache

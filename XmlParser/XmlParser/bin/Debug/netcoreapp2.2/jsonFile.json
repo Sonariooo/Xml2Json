@@ -1,0 +1,174 @@
+{"substationName":"ПС 6 кВ № 12 (КЧХК)","vl":null}
+{"substationName":"ПС 10 кВ № 1 (КЧХК)","vl":null}
+{"substationName":"ПС 110 кВ Кирскабель","vl":null}
+{"substationName":"Кировская ТЭЦ-1","vl":{"voltageLevelName":"6","smList":[{"synchronousMachineName":"ТГ-3"},{"synchronousMachineName":"ТГ-2"}]}}
+{"substationName":"Кировская ТЭЦ-4","vl":{"voltageLevelName":"6","smList":[{"synchronousMachineName":"ТГ-3"}]}}
+{"substationName":"Кировская ТЭЦ-3","vl":{"voltageLevelName":"6","smList":[{"synchronousMachineName":"ТГ-3"}]}}
+{"substationName":"Кировская ТЭЦ-5","vl":{"voltageLevelName":"220","smList":[]}}
+{"substationName":"ПС 500 кВ Вятка","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 220 кВ Омутнинск","vl":{"voltageLevelName":"10","smList":[]}}
+{"substationName":"ПС 220 кВ Зуевка","vl":{"voltageLevelName":"220","smList":[]}}
+{"substationName":"ПС 220 кВ Бумкомбинат","vl":{"voltageLevelName":"220","smList":[]}}
+{"substationName":"ПС 220 кВ Вятские Поляны","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 220 кВ Фалёнки(тяговая)","vl":{"voltageLevelName":"220","smList":[]}}
+{"substationName":"ПС 220 кВ Чепецк","vl":{"voltageLevelName":"10","smList":[]}}
+{"substationName":"ПС 220 кВ Лебяжье","vl":{"voltageLevelName":"10","smList":[]}}
+{"substationName":"ПС 220 кВ Марадыково","vl":{"voltageLevelName":"220","smList":[]}}
+{"substationName":"РП 220 кВ Фалёнки","vl":{"voltageLevelName":"220","smList":[]}}
+{"substationName":"ПС 220 кВ Мураши","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 220 кВ Рехино","vl":{"voltageLevelName":"220","smList":[]}}
+{"substationName":"ПС 220 кВ Киров","vl":{"voltageLevelName":"220","smList":[]}}
+{"substationName":"ПС 220 кВ Котельнич","vl":{"voltageLevelName":"10","smList":[]}}
+{"substationName":"ГПП2 110 кВ","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ГПП1 110 кВ","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Песковка","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Свеча","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Луза","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Мураши","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Шурма","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Юбилейная","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Юрьево","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Юрья","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ РМЗ","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Рожки","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Красногорская","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Перекоп","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Арбаж","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Ацвеж","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Бахта","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Беляево","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Богородск","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Бытприбор","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Вахруши","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Верхошижемье","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Ветошкино","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Гарь","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Гостовская","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ ГПП-2 (АО «Лепсе»)","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Даровское","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Иванцево","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Иготино","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Ильинская","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Коминтерн","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Красный Курсант","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Красный Якорь","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Кремешки","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Кристалл","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Круглыжи","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Кузнецы","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Кумены","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Кырчаны","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Луговая","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Лыжная","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Макарье","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Малмыж","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ГПП 110 кВ Механическая","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Нижнеивкино","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Нолинск","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Опарино","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Опытное Поле","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Отворское","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Павлово","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Пасегово","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Первомайск","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Первомайская","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Петровское","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Пижанка","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Пинюг","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Полом","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Матвинур","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Прогресс","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Просница","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Уни","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Сельмаш","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Слободская","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Слудка (КЭ)","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Советск","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Талица (КЭ)","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Тужа","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Уржум","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Утиная","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Филиппово","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Шабалино","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Швариха","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Шевели","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Шкляевская","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Лянгасово","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Северная (КЭ)","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Приверх","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Городская","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Искра","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Краснооктябрьская","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Шараница","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Шестаки","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Альмеж","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Афанасьево","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Безбожник","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Дубровка","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Дымное","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Западная","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Коммунальная","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Октябрьская","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Муша","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Прудки","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Кстинино","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ УХО","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Яранск","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ МСЗ","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Сосновка","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Тяговая","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Маяк","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Пиксур","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Авитек","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Бисерово","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Заводская","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Залазна","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Черная Холуница","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Заречная","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ КБ Север","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ КДВП","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Маяк","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ ОХЗ","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ ОЦМ","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Подрезчиха","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Птицефабрика","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Рудничная","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Скопино","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Чепца","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Чижи","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Тюмень","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Бурмакино","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Азот 1","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Азот 2","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ ГПП (ГалоПолимер Кирово-Чепецк)","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Демьяново","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Кирс","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Лебяжье","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Садовая (КЭ)","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Санчурск","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Селезениха","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ ССК","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Суна","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Лазарево 2","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Восточная","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Красная Поляна","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Восточная","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ ГПП-3","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Кикнур","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Митюши","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Оричи","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Савали","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Белая Холуница","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Лазарево 1","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ ОМЗ","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"РУ 110/6 кВ Кировской ТЭЦ-1","vl":{"voltageLevelName":"6","smList":[]}}
+{"substationName":"ПС 110 кВ Фанерная","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 110 кВ Речная","vl":{"voltageLevelName":"110","smList":[]}}
+{"substationName":"ПС 35 кВ Гирсово","vl":null}
+{"substationName":"ПС 35 кВ ССК","vl":null}
+{"substationName":"ПС 35 кВ Чистые Пруды","vl":null}
+{"substationName":"ПС 35 кВ МСЗ","vl":null}
+{"substationName":"ПС 35 кВ 22","vl":null}
+{"substationName":"ПС 35 кВ Юго-Западная","vl":null}
+{"substationName":"ПС 35 кВ Филейка","vl":null}
+{"substationName":"ПС 35 кВ Береговая","vl":null}
